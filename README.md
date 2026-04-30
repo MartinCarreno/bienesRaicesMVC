@@ -32,16 +32,16 @@ A continuación se detallan las interfaces principales del sistema:
 
 ### 1. Página de Incio
 Pestaña donde el usuario ya sea comprador o administrador pueden ver las distintas casas de la inmobiliaria
-![Página Principal Inmobiliaria](https://github.com/MartinCarreno/bienesRaicesMVC/raw/main/imagenesApp/Bienes%20Raices%20Inicio.jpg)
+![Página Principal Inmobiliaria](https://github.com/MartinCarreno/bienesRaicesMVC/imagenesApp/Bienes%20Raices%20Inicio.jpg)
 
 
 ### 2. Sistema de Autenticación
 Panel de acceso protegido para el personal administrativo.
-![Panel de Iniciar Sesión](https://github.com/MartinCarreno/bienesRaicesMVC/raw/main/imagenesApp/Bienes%20Raices%20Admin%20Incio.png)
+![Panel de Iniciar Sesión](https://github.com/MartinCarreno/bienesRaicesMVC/imagenesApp/Bienes%20Raices%20Admin%20Incio.png)
 
 ### 3. Panel de Administración (Dashboard CRUD)
 Vista general donde el administrador puede gestionar los registros de la base de datos de propiedades y vendedores.
-![Dashboard de Administración](https://github.com/MartinCarreno/bienesRaicesMVC/raw/main/imagenesApp/Bienes%20Raices%20Panel%20de%20Admin.png)
+![Dashboard de Administración](https://github.com/MartinCarreno/bienesRaicesMVC/imagenesApp/Bienes%20Raices%20Panel%20de%20Admin.png)
 
 ---
 
